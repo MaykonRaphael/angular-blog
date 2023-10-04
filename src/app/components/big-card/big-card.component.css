@@ -1,0 +1,25 @@
+.container {
+  width: 400px;
+  height: 450px;
+  margin: 0 30px;
+  padding: 0 10px;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.picture > img {
+  width: 100%;
+  height: 200px;
+  min-width: 400px;
+}
+
+.title > h1 {
+  margin: 10px 0;
+  font-size: 20px;
+}
+
+.description a > p {
+  color: #808080;
+}
