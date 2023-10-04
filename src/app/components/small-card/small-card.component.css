@@ -1,0 +1,23 @@
+.container {
+  width: 700px;
+}
+
+.content {
+  display: flex;
+}
+
+.picture > img {
+  width: 200px;
+  min-width: 200px;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+}
+
+hr {
+  margin: 8px 0;
+}
