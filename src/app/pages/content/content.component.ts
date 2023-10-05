@@ -11,6 +11,7 @@ export class ContentComponent {
   imageUrl:string = ''
   title:string = ''
   description:string = ''
+  github:string = ''
   private id:string | null = '0'
 
   constructor(
@@ -30,5 +31,6 @@ export class ContentComponent {
     this.title = result.title
     this.imageUrl = result.imageUrl
     this.description = result.description
+    this.github = result.github
   }
 }

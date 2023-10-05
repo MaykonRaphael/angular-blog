@@ -1,26 +1,30 @@
 export const data = [
   {
     id: '1',
-    imageUrl: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4208d2af-232f-433b-a5c1-8af8bcef8efa/d9p053f-6341f2cb-5c91-487c-aaf4-6bcfe904d097.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQyMDhkMmFmLTIzMmYtNDMzYi1hNWMxLThhZjhiY2VmOGVmYVwvZDlwMDUzZi02MzQxZjJjYi01YzkxLTQ4N2MtYWFmNC02YmNmZTkwNGQwOTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tFL82YsUcQ0_mxD0m0npDlWpEBX4R5XGHAdhqjRoU4I',
-    title: 'Novo filme do DeadPool',
-    description: 'In September on ESPN channels you will watch the best players in the world!'
+    imageUrl: 'https://github.com/MaykonRaphael/nlw-ia/raw/master/.github/cover.png',
+    title: 'Shorts Summary',
+    description: 'Application to transcribe audio from a short video from YouTube using Artificial Intelligence to do that transcription!',
+    github: 'https://github.com/MaykonRaphael/nlw-ia'
   },
   {
     id: '2',
-    imageUrl: 'https://pbs.twimg.com/profile_images/1208234904405757953/mT0cFOVQ_400x400.jpg',
-    title: 'New Deadpool movie',
-    description: 'In September you will watch the best in the world!'
+    imageUrl: 'https://github.com/MaykonRaphael/dio-clone/raw/master/.github/home.png',
+    title: 'Clone site DIO',
+    description: 'Projeto desenvolvido para a Formação React Developer na plataforma dio.me, onde foi ensinado a usar o styled-components, react-router-dom e react-hook-form para recriar a pagina de login da DIO',
+    github: 'https://github.com/MaykonRaphael/dio-clone'
   },
   {
     id: '3',
-    imageUrl: 'https://cdn.marvel.com/content/1x/loki_infinity_comics_card_image_0.jpg',
-    title: 'The Loki Comics to Read Right Now',
-    description: 'Marvel anuncia novo filme do Deadpool para 2023!'
+    imageUrl: 'https://github.com/MaykonRaphael/genius-dio/raw/master/.github/page.png',
+    title: 'Genius Game',
+    description: 'Project challenge made at the Eduzz Fullstack Developer #3 bootcamp by the DIO platform',
+    github: 'https://github.com/MaykonRaphael/genius-dio'
   },
   {
     id: '4',
-    imageUrl: 'https://cdn.marvel.com/content/1x/gods_1_art_by_mateus_manhanini.jpg',
-    title: "'G.O.D.S.' #1 Easter Eggs, References, & Callbacks",
-    description: 'Marvel anuncia novo filme do Deadpool para 2023!'
+    imageUrl: 'https://github.com/MaykonRaphael/newAwax/raw/master/.github/page.png',
+    title: "Awax web site",
+    description: 'Is a Website to train HTML and CSS responsiveness for desktop, tablet and mobile devices!',
+    github: 'https://github.com/MaykonRaphael/newAwax'
   }
 ]
