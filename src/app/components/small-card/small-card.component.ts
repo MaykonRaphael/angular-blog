@@ -10,4 +10,6 @@ export class SmallCardComponent {
   imageUrl:string = '';
   @Input()
   title:string = '';
+  @Input()
+  id:string = '0'
 }
