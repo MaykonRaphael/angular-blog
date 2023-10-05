@@ -1,27 +1,62 @@
-# Blog
+<div align="center">
+  <h1>My Projects</h1>
+</div>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
+<p align="center">
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Getting started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
 
-## Development server
+<br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=E51C44&labelColor=0A1033">
+</p>
 
-## Code scaffolding
+<h1 align="center">
+    <img alt="My Projects" title="My Projects" src=".github/cover.png" />
+</h1>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## 💻 Projeto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Application to learn how to create a angular project, manipulate components and make dynamic pages content!
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🧪 Technologies
 
-## Running end-to-end tests
+This project was developed using the following technologies:
+ 
+- [Angular](https://angular.io)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Typescript](https://www.typescriptlang.org)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 🚀 Getting started
 
-## Further help
+Clone the project and access the folder.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+$ git clone https://github.com/MaykonRaphael/angular-blog.git
+$ cd angular-blog
+```
+
+Follow the steps below:
+```bash
+# Start the project
+$ ng server
+
+# Open this in browser
+$ http://localhost:4200/
+```
+
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+
+---
+<p align="center">
+  Made by Maykon Raphael 👋
+</p>
